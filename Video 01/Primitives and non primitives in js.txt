@@ -1,0 +1,11 @@
+There are 7 primitives in javascript which i called as 
+nn ss bb u
+n = number
+n = null
+s = string
+s = symbol
+b = boolean
+b = bigint
+u = undefined
+
+While there are also non primitives datatype in javascript which we called as object
