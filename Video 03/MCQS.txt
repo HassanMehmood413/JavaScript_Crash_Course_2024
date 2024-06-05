@@ -1,0 +1,5 @@
+Strings are immutable means when we let a string, we 
+cannot change the original stirng , we just use a 
+method like trim,slice but it does not change the 
+original string it just give us a new string with
+the method we had apply on original string
